@@ -1,1 +1,1 @@
-# cronometro-with-gui
+# cronometro-com-gui
